@@ -14,4 +14,4 @@ Currently uses DDM to facilitate DDC/CI communications with the monitor.
 Prerequisites: 
 
 1. Dell Display Manager
-2. .NET CORE 3.1 
+2. .NET Core 3.1 Runtime
